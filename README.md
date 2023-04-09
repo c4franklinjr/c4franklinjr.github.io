@@ -10,10 +10,10 @@ hello
     </div>
 </div>
 
+https://demo-appointments.spoton.com/online_booking#widget:~:text=%3Ciframe%20src%3D%22https%3A//demo%2Dappointments.spoton.com/appointment_wizard/43377a58%2Db161%2D49a6%2Db57c%2Df452afda286b/%22%20width%3D%22100%25%22%20height%3D%22100%25%22%3E%3C/iframe%3E
+
 <iframe src="https://demo-appointments.spoton.com/appointment_wizard/43377a58-b161-49a6-b57c-f452afda286b/" width="100%" height="100%"></iframe>
-Short Link
 
+demo.appt.info/w/43377
 
-[https://demo.appt.info/w/43377](https://demo.appt.info/w/43377)
-
-[https://demo-appointments.spoton.com/book/demo-charles-franklin-jr-senior-account-executive-](https://demo-appointments.spoton.com/book/demo-charles-franklin-jr-senior-account-executive-)
+demo-appointments.spoton.com/book/demo-charles-franklin-jr-senior-account-executive-
