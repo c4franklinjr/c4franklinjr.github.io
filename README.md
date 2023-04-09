@@ -14,6 +14,6 @@ hello
 Short Link
 
 
-https://demo.appt.info/w/43377
+[https://demo.appt.info/w/43377](https://demo.appt.info/w/43377)
 
-https://demo-appointments.spoton.com/book/demo-charles-franklin-jr-senior-account-executive-
+[https://demo-appointments.spoton.com/book/demo-charles-franklin-jr-senior-account-executive-](https://demo-appointments.spoton.com/book/demo-charles-franklin-jr-senior-account-executive-)
